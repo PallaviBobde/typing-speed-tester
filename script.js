@@ -6,7 +6,7 @@ let startTime, endTime;
 
 const setOfWords = [
     "If you want to know what a man's like, take a good look at how he treats his inferiors, not his equals.",
-    "I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.",
+    "Winning doesn’t always mean being first. Winning means you’re doing better than you’ve done before.",
     "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
     "Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.",
     "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
@@ -19,9 +19,10 @@ const setOfWords = [
     "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.",
     "Teamwork is the ability to work together toward a common vision, the ability to direct individual accomplishments toward organizational objectives. It is the fuel that allows common people to attain uncommon results.",
     "There is no royal road to anything. One thing at a time, all things in succession. That which grows fast, withers as rapidly. That which grows slowly, endures. ",
-    "What’s money? A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do.",
+    "A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do.",
     "When I stand before God at the end of my life, I would hope that I would not have a single bit of talent left and could say, I used everything you gave me.",
-    "I alone cannot change the world, but I can cast a stone across the water to create many ripples. "
+    "I alone cannot change the world, but I can cast a stone across the water to create many ripples. ",
+    "Once you replace negative thoughts with positive ones, you’ll start having positive results."
 ];
 
 
